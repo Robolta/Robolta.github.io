@@ -15,5 +15,6 @@ p {
 .block {
 	width: 128px;
 	height: 128px;
+	image-rendering: pixelated;
 	filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.6));
 }
