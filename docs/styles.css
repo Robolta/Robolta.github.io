@@ -11,3 +11,9 @@ p {
 	color: white;
 	text-align: center;
 }
+
+.block {
+	width: 128px;
+	height: 128px;
+	filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.6));
+}
